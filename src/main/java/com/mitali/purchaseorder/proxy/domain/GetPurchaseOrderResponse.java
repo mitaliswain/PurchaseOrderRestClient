@@ -11,6 +11,7 @@ import lombok.ToString;
 @ToString
 public class GetPurchaseOrderResponse {
 
+	
 	String id;
 	Brand brand;
 	Market market;
