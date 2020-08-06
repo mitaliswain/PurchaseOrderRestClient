@@ -33,7 +33,7 @@ public class PurchaseOrderRestProxy {
 		
 		RestTemplate restTemplate = new RestTemplate();
 		
-	
+	 
 		HttpHeaders headers = new HttpHeaders();
 		headers.set("apigee-signature", "123456789012");
 		
